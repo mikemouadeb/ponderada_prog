@@ -1,0 +1,15 @@
+/Users/mike/Projects/Bank/Bank/bin/Debug/net7.0/Bank
+/Users/mike/Projects/Bank/Bank/bin/Debug/net7.0/Bank.deps.json
+/Users/mike/Projects/Bank/Bank/bin/Debug/net7.0/Bank.runtimeconfig.json
+/Users/mike/Projects/Bank/Bank/bin/Debug/net7.0/Bank.dll
+/Users/mike/Projects/Bank/Bank/bin/Debug/net7.0/Bank.pdb
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.AssemblyReference.cache
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfoInputs.cache
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfo.cs
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.dll
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/refint/Bank.dll
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.pdb
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/Bank.genruntimeconfig.cache
+/Users/mike/Projects/Bank/Bank/obj/Debug/net7.0/ref/Bank.dll
